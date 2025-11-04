@@ -142,12 +142,3 @@ samples = calc.sobol_antithetic_sampling(positions, corr, num_samples=1024)
 
 - Quantum LSTM and QAE code are research/experimental: expect long runtimes and additional dependency/version complexity.
 - The LSTM implementation uses TensorFlow; if you prefer PyTorch, a port could be made for interoperability or performance comparisons.
-
----
-
-If you'd like, I can:
-- Create a `requirements.txt` pinned to known-working versions.
-- Add a small `examples/` folder with runnable scripts for the two main flows (LSTM and PFE).
-- Generate the suggested quickstart notebook.
-
-Please tell me which of the follow-ups you'd like me to do next.
