@@ -1,6 +1,7 @@
 ## QStockPrediction — README
 
-This directory contains a small project focused on volatility prediction and portfolio PFE (Potential Future Exposure) estimation with both classical and quantum-enhanced components. The codebase experiments with variance-reduced Monte Carlo sampling, LSTM-based volatility forecasting, and a hybrid quantum-classical LSTM variant.
+QuanTech
+This directory contains a project focused on volatility prediction and portfolio PFE (Potential Future Exposure) estimation with both classical and quantum-enhanced components. The codebase experiments with variance-reduced Monte Carlo sampling, LSTM-based volatility forecasting, and a hybrid quantum-classical LSTM variant.
 
 ## High-level summary
 
